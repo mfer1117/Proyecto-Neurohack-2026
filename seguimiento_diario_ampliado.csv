@@ -1,0 +1,441 @@
+﻿id_registro_diario;id_caso;fecha;calidad_sueno;modo_despertar;adherencia_medicacion;estado_gastrointestinal;nivel_regulacion_general_dia;origen_dato
+REG-001;PAC-001;2026-07-01;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Original
+REG-004;PAC-001;2026-07-02;Interrumpido;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Original
+REG-007;PAC-001;2026-07-03;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Original
+REG-010;PAC-001;2026-07-04;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Original
+REG-014;PAC-001;2026-07-05;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-018;PAC-001;2026-07-06;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Original
+REG-022;PAC-001;2026-07-07;Interrumpido;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Original
+REG-026;PAC-001;2026-07-08;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Original
+REG-030;PAC-001;2026-07-09;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Original
+REG-033;PAC-001;2026-07-10;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-037;PAC-001;2026-07-11;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Original
+REG-041;PAC-001;2026-07-12;Interrumpido;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Original
+REG-045;PAC-001;2026-07-13;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Original
+REG-048;PAC-001;2026-07-14;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Original
+REG-050;PAC-001;2026-07-15;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-054;PAC-001;2026-07-16;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Original
+REG-057;PAC-001;2026-07-17;Interrumpido;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Original
+REG-060;PAC-001;2026-07-18;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Original
+REG-062;PAC-001;2026-07-19;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Original
+REG-066;PAC-001;2026-07-20;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-069;PAC-001;2026-07-21;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Original
+REG-073;PAC-001;2026-07-22;Interrumpido;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Original
+REG-076;PAC-001;2026-07-23;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Original
+REG-079;PAC-001;2026-07-24;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Original
+REG-082;PAC-001;2026-07-25;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-085;PAC-001;2026-07-26;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Original
+REG-089;PAC-001;2026-07-27;Interrumpido;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Original
+REG-092;PAC-001;2026-07-28;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Original
+REG-096;PAC-001;2026-07-29;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Original
+REG-099;PAC-001;2026-07-30;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-0103;PAC-001;2026-07-31;Reparador;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0104;PAC-001;2026-08-01;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0105;PAC-001;2026-08-02;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0106;PAC-001;2026-08-03;Reparador;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0107;PAC-001;2026-08-04;Dificultad de Conciliación;Irritable/Llorando;No Aplica;Diarrea;Desregulación Frecuente;Sintético
+REG-0108;PAC-001;2026-08-05;Reparador;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0109;PAC-001;2026-08-06;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0110;PAC-001;2026-08-07;Dificultad de Conciliación;Irritable/Llorando;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0111;PAC-001;2026-08-08;Dificultad de Conciliación;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0112;PAC-001;2026-08-09;Interrumpido;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0113;PAC-001;2026-08-10;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0114;PAC-001;2026-08-11;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Excelente;Sintético
+REG-0115;PAC-001;2026-08-12;Dificultad de Conciliación;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0116;PAC-001;2026-08-13;Reparador;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0117;PAC-001;2026-08-14;Interrumpido;Irritable/Llorando;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0118;PAC-001;2026-08-15;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0119;PAC-001;2026-08-16;Reparador;Irritable/Llorando;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0120;PAC-001;2026-08-17;Reparador;Tranquilo/Alegre;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0121;PAC-001;2026-08-18;Dificultad de Conciliación;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0122;PAC-001;2026-08-19;Interrumpido;Tranquilo/Alegre;No Aplica;Diarrea;Estable con Apoyo;Sintético
+REG-0123;PAC-001;2026-08-20;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0124;PAC-001;2026-08-21;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0125;PAC-001;2026-08-22;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0126;PAC-001;2026-08-23;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0127;PAC-001;2026-08-24;Reparador;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0128;PAC-002;2026-07-01;Interrumpido;Tranquilo/Alegre;Sí;Diarrea;Desregulación Frecuente;Sintético
+REG-0129;PAC-002;2026-07-02;Interrumpido;Tranquilo/Alegre;Sí;Normal;Estable con Apoyo;Sintético
+REG-0130;PAC-002;2026-07-03;Reparador;Tranquilo/Alegre;Sí;Normal;Excelente;Sintético
+REG-011;PAC-002;2026-07-04;Interrumpido;Irritable/Llorando;Sí;Estreñimiento;Estable con Apoyo;Original
+REG-015;PAC-002;2026-07-05;Interrumpido;Irritable/Llorando;Sí;Normal;Desregulación Frecuente;Original
+REG-019;PAC-002;2026-07-06;Dificultad de Conciliación;Cansado/Con Sueño;Sí;Diarrea;Estable con Apoyo;Original
+REG-023;PAC-002;2026-07-07;Interrumpido;Irritable/Llorando;Sí;Normal;Desregulación Frecuente;Original
+REG-027;PAC-002;2026-07-08;Reparador;Tranquilo/Alegre;Sí;Normal;Excelente;Original
+REG-0131;PAC-002;2026-07-09;Interrumpido;Tranquilo/Alegre;Sí;Diarrea;Estable con Apoyo;Sintético
+REG-034;PAC-002;2026-07-10;Interrumpido;Irritable/Llorando;Sí;Normal;Desregulación Frecuente;Original
+REG-038;PAC-002;2026-07-11;Dificultad de Conciliación;Cansado/Con Sueño;Sí;Diarrea;Estable con Apoyo;Original
+REG-042;PAC-002;2026-07-12;Interrumpido;Irritable/Llorando;Sí;Normal;Desregulación Frecuente;Original
+REG-0132;PAC-002;2026-07-13;Reparador;Tranquilo/Alegre;Sí;Normal;Excelente;Sintético
+REG-0133;PAC-002;2026-07-14;Interrumpido;Irritable/Llorando;Sí;Normal;Estable con Apoyo;Sintético
+REG-051;PAC-002;2026-07-15;Interrumpido;Irritable/Llorando;Sí;Normal;Desregulación Frecuente;Original
+REG-055;PAC-002;2026-07-16;Dificultad de Conciliación;Cansado/Con Sueño;Sí;Diarrea;Estable con Apoyo;Original
+REG-058;PAC-002;2026-07-17;Interrumpido;Irritable/Llorando;Sí;Normal;Desregulación Frecuente;Original
+REG-0134;PAC-002;2026-07-18;Reparador;Tranquilo/Alegre;Sí;Estreñimiento;Desregulación Frecuente;Sintético
+REG-063;PAC-002;2026-07-19;Interrumpido;Irritable/Llorando;Sí;Estreñimiento;Estable con Apoyo;Original
+REG-067;PAC-002;2026-07-20;Interrumpido;Irritable/Llorando;Sí;Normal;Desregulación Frecuente;Original
+REG-070;PAC-002;2026-07-21;Dificultad de Conciliación;Cansado/Con Sueño;Sí;Diarrea;Estable con Apoyo;Original
+REG-0135;PAC-002;2026-07-22;Reparador;Cansado/Con Sueño;Sí;Normal;Estable con Apoyo;Sintético
+REG-077;PAC-002;2026-07-23;Reparador;Tranquilo/Alegre;Sí;Normal;Excelente;Original
+REG-080;PAC-002;2026-07-24;Interrumpido;Irritable/Llorando;Sí;Estreñimiento;Estable con Apoyo;Original
+REG-083;PAC-002;2026-07-25;Interrumpido;Irritable/Llorando;Sí;Normal;Desregulación Frecuente;Original
+REG-086;PAC-002;2026-07-26;Dificultad de Conciliación;Cansado/Con Sueño;Sí;Diarrea;Estable con Apoyo;Original
+REG-090;PAC-002;2026-07-27;Interrumpido;Irritable/Llorando;Sí;Normal;Desregulación Frecuente;Original
+REG-093;PAC-002;2026-07-28;Reparador;Tranquilo/Alegre;Sí;Normal;Excelente;Original
+REG-0136;PAC-002;2026-07-29;Interrumpido;Cansado/Con Sueño;Sí;Normal;Estable con Apoyo;Sintético
+REG-0137;PAC-002;2026-07-30;Interrumpido;Tranquilo/Alegre;Sí;Normal;Estable con Apoyo;Sintético
+REG-100;PAC-002;2026-07-31;Dificultad de Conciliación;Cansado/Con Sueño;Sí;Diarrea;Estable con Apoyo;Original
+REG-0138;PAC-002;2026-08-01;Dificultad de Conciliación;Tranquilo/Alegre;Sí;Normal;Excelente;Sintético
+REG-0139;PAC-002;2026-08-02;Interrumpido;Cansado/Con Sueño;Sí;Normal;Desregulación Frecuente;Sintético
+REG-0140;PAC-002;2026-08-03;Dificultad de Conciliación;Tranquilo/Alegre;Sí;Normal;Estable con Apoyo;Sintético
+REG-0141;PAC-002;2026-08-04;Reparador;Irritable/Llorando;Sí;Diarrea;Estable con Apoyo;Sintético
+REG-0142;PAC-002;2026-08-05;Reparador;Tranquilo/Alegre;Sí;Normal;Estable con Apoyo;Sintético
+REG-0143;PAC-002;2026-08-06;Reparador;Irritable/Llorando;Sí;Normal;Estable con Apoyo;Sintético
+REG-0144;PAC-002;2026-08-07;Dificultad de Conciliación;Cansado/Con Sueño;Sí;Normal;Desregulación Frecuente;Sintético
+REG-0145;PAC-002;2026-08-08;Dificultad de Conciliación;Cansado/Con Sueño;Sí;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0146;PAC-002;2026-08-09;Interrumpido;Tranquilo/Alegre;Sí;Normal;Excelente;Sintético
+REG-0147;PAC-002;2026-08-10;Reparador;Cansado/Con Sueño;Sí;Normal;Desregulación Frecuente;Sintético
+REG-0148;PAC-002;2026-08-11;Dificultad de Conciliación;Tranquilo/Alegre;Sí;Diarrea;Estable con Apoyo;Sintético
+REG-0149;PAC-002;2026-08-12;Reparador;Tranquilo/Alegre;Sí;Normal;Excelente;Sintético
+REG-0150;PAC-002;2026-08-13;Interrumpido;Irritable/Llorando;Sí;Normal;Estable con Apoyo;Sintético
+REG-0151;PAC-002;2026-08-14;Reparador;Cansado/Con Sueño;Sí;Normal;Excelente;Sintético
+REG-0152;PAC-002;2026-08-15;Reparador;Tranquilo/Alegre;Sí;Normal;Estable con Apoyo;Sintético
+REG-0153;PAC-002;2026-08-16;Dificultad de Conciliación;Tranquilo/Alegre;Sí;Normal;Desregulación Frecuente;Sintético
+REG-0154;PAC-002;2026-08-17;Interrumpido;Cansado/Con Sueño;Sí;Normal;Desregulación Frecuente;Sintético
+REG-0155;PAC-002;2026-08-18;Interrumpido;Tranquilo/Alegre;Sí;Normal;Estable con Apoyo;Sintético
+REG-0156;PAC-002;2026-08-19;Interrumpido;Tranquilo/Alegre;Sí;Normal;Estable con Apoyo;Sintético
+REG-0157;PAC-002;2026-08-20;Reparador;Tranquilo/Alegre;Sí;Normal;Excelente;Sintético
+REG-0158;PAC-002;2026-08-21;Interrumpido;Cansado/Con Sueño;Sí;Normal;Estable con Apoyo;Sintético
+REG-0159;PAC-002;2026-08-22;Reparador;Cansado/Con Sueño;Sí;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0160;PAC-002;2026-08-23;Reparador;Irritable/Llorando;Sí;Normal;Estable con Apoyo;Sintético
+REG-0161;PAC-002;2026-08-24;Dificultad de Conciliación;Tranquilo/Alegre;Sí;Diarrea;Desregulación Frecuente;Sintético
+REG-002;PAC-003;2026-07-01;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-005;PAC-003;2026-07-02;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Original
+REG-008;PAC-003;2026-07-03;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Original
+REG-012;PAC-003;2026-07-04;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-016;PAC-003;2026-07-05;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-020;PAC-003;2026-07-06;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-024;PAC-003;2026-07-07;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Original
+REG-028;PAC-003;2026-07-08;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Original
+REG-031;PAC-003;2026-07-09;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-035;PAC-003;2026-07-10;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-039;PAC-003;2026-07-11;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-043;PAC-003;2026-07-12;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Original
+REG-046;PAC-003;2026-07-13;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Original
+REG-049;PAC-003;2026-07-14;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-052;PAC-003;2026-07-15;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-056;PAC-003;2026-07-16;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-059;PAC-003;2026-07-17;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Original
+REG-061;PAC-003;2026-07-18;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Original
+REG-064;PAC-003;2026-07-19;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-0162;PAC-003;2026-07-20;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-071;PAC-003;2026-07-21;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-074;PAC-003;2026-07-22;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Original
+REG-078;PAC-003;2026-07-23;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Original
+REG-081;PAC-003;2026-07-24;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-084;PAC-003;2026-07-25;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-087;PAC-003;2026-07-26;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-091;PAC-003;2026-07-27;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Original
+REG-094;PAC-003;2026-07-28;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Original
+REG-097;PAC-003;2026-07-29;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-0163;PAC-003;2026-07-30;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-101;PAC-003;2026-07-31;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-0164;PAC-003;2026-08-01;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0165;PAC-003;2026-08-02;Reparador;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0166;PAC-003;2026-08-03;Reparador;Irritable/Llorando;No Aplica;Estreñimiento;Estable con Apoyo;Sintético
+REG-0167;PAC-003;2026-08-04;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0168;PAC-003;2026-08-05;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0169;PAC-003;2026-08-06;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Excelente;Sintético
+REG-0170;PAC-003;2026-08-07;Reparador;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0171;PAC-003;2026-08-08;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0172;PAC-003;2026-08-09;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0173;PAC-003;2026-08-10;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Diarrea;Desregulación Frecuente;Sintético
+REG-0174;PAC-003;2026-08-11;Reparador;Cansado/Con Sueño;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0175;PAC-003;2026-08-12;Reparador;Irritable/Llorando;No Aplica;Normal;Excelente;Sintético
+REG-0176;PAC-003;2026-08-13;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0177;PAC-003;2026-08-14;Reparador;Cansado/Con Sueño;No Aplica;Diarrea;Desregulación Frecuente;Sintético
+REG-0178;PAC-003;2026-08-15;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0179;PAC-003;2026-08-16;Interrumpido;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Sintético
+REG-0180;PAC-003;2026-08-17;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0181;PAC-003;2026-08-18;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0182;PAC-003;2026-08-19;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0183;PAC-003;2026-08-20;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0184;PAC-003;2026-08-21;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0185;PAC-003;2026-08-22;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0186;PAC-003;2026-08-23;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0187;PAC-003;2026-08-24;Reparador;Cansado/Con Sueño;No Aplica;Estreñimiento;Estable con Apoyo;Sintético
+REG-003;PAC-004;2026-07-01;Interrumpido;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Original
+REG-006;PAC-004;2026-07-02;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Estreñimiento;Estable con Apoyo;Original
+REG-009;PAC-004;2026-07-03;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-013;PAC-004;2026-07-04;Interrumpido;Irritable/Llorando;No Aplica;Diarrea;Desregulación Frecuente;Original
+REG-017;PAC-004;2026-07-05;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Original
+REG-021;PAC-004;2026-07-06;Interrumpido;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Original
+REG-025;PAC-004;2026-07-07;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Estreñimiento;Estable con Apoyo;Original
+REG-029;PAC-004;2026-07-08;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-032;PAC-004;2026-07-09;Interrumpido;Irritable/Llorando;No Aplica;Diarrea;Desregulación Frecuente;Original
+REG-036;PAC-004;2026-07-10;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Original
+REG-040;PAC-004;2026-07-11;Interrumpido;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Original
+REG-044;PAC-004;2026-07-12;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Estreñimiento;Estable con Apoyo;Original
+REG-047;PAC-004;2026-07-13;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-0188;PAC-004;2026-07-14;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Diarrea;Desregulación Frecuente;Sintético
+REG-053;PAC-004;2026-07-15;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Original
+REG-0189;PAC-004;2026-07-16;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0190;PAC-004;2026-07-17;Interrumpido;Irritable/Llorando;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0191;PAC-004;2026-07-18;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-065;PAC-004;2026-07-19;Interrumpido;Irritable/Llorando;No Aplica;Diarrea;Desregulación Frecuente;Original
+REG-068;PAC-004;2026-07-20;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Original
+REG-072;PAC-004;2026-07-21;Interrumpido;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Original
+REG-075;PAC-004;2026-07-22;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Estreñimiento;Estable con Apoyo;Original
+REG-0192;PAC-004;2026-07-23;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0193;PAC-004;2026-07-24;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0194;PAC-004;2026-07-25;Reparador;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-088;PAC-004;2026-07-26;Interrumpido;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Original
+REG-0195;PAC-004;2026-07-27;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-095;PAC-004;2026-07-28;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Original
+REG-098;PAC-004;2026-07-29;Interrumpido;Irritable/Llorando;No Aplica;Diarrea;Desregulación Frecuente;Original
+REG-0196;PAC-004;2026-07-30;Reparador;Cansado/Con Sueño;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-102;PAC-004;2026-07-31;Interrumpido;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Original
+REG-0197;PAC-004;2026-08-01;Dificultad de Conciliación;Irritable/Llorando;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0198;PAC-004;2026-08-02;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0199;PAC-004;2026-08-03;Reparador;Cansado/Con Sueño;No Aplica;Diarrea;Estable con Apoyo;Sintético
+REG-0200;PAC-004;2026-08-04;Interrumpido;Tranquilo/Alegre;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0201;PAC-004;2026-08-05;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0202;PAC-004;2026-08-06;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0203;PAC-004;2026-08-07;Reparador;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0204;PAC-004;2026-08-08;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0205;PAC-004;2026-08-09;Reparador;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0206;PAC-004;2026-08-10;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0207;PAC-004;2026-08-11;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Sintético
+REG-0208;PAC-004;2026-08-12;Reparador;Cansado/Con Sueño;No Aplica;Diarrea;Estable con Apoyo;Sintético
+REG-0209;PAC-004;2026-08-13;Interrumpido;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0210;PAC-004;2026-08-14;Reparador;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0211;PAC-004;2026-08-15;Reparador;Cansado/Con Sueño;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0212;PAC-004;2026-08-16;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0213;PAC-004;2026-08-17;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Excelente;Sintético
+REG-0214;PAC-004;2026-08-18;Interrumpido;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0215;PAC-004;2026-08-19;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Diarrea;Desregulación Frecuente;Sintético
+REG-0216;PAC-004;2026-08-20;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0217;PAC-004;2026-08-21;Reparador;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0218;PAC-004;2026-08-22;Reparador;Tranquilo/Alegre;No Aplica;Diarrea;Excelente;Sintético
+REG-0219;PAC-004;2026-08-23;Reparador;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0220;PAC-004;2026-08-24;Interrumpido;Tranquilo/Alegre;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0221;PAC-005;2026-07-01;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Sintético
+REG-0222;PAC-005;2026-07-02;Reparador;Cansado/Con Sueño;No Aplica;Estreñimiento;Estable con Apoyo;Sintético
+REG-0223;PAC-005;2026-07-03;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Sintético
+REG-0224;PAC-005;2026-07-04;Interrumpido;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0225;PAC-005;2026-07-05;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0226;PAC-005;2026-07-06;Reparador;Irritable/Llorando;No Aplica;Diarrea;Estable con Apoyo;Sintético
+REG-0227;PAC-005;2026-07-07;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0228;PAC-005;2026-07-08;Reparador;Irritable/Llorando;No Aplica;Diarrea;Estable con Apoyo;Sintético
+REG-0229;PAC-005;2026-07-09;Interrumpido;Irritable/Llorando;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0230;PAC-005;2026-07-10;Reparador;Cansado/Con Sueño;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0231;PAC-005;2026-07-11;Reparador;Irritable/Llorando;No Aplica;Normal;Excelente;Sintético
+REG-0232;PAC-005;2026-07-12;Reparador;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0233;PAC-005;2026-07-13;Reparador;Irritable/Llorando;No Aplica;Normal;Excelente;Sintético
+REG-0234;PAC-005;2026-07-14;Reparador;Irritable/Llorando;No Aplica;Normal;Excelente;Sintético
+REG-0235;PAC-005;2026-07-15;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0236;PAC-005;2026-07-16;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0237;PAC-005;2026-07-17;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0238;PAC-005;2026-07-18;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0239;PAC-005;2026-07-19;Dificultad de Conciliación;Irritable/Llorando;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0240;PAC-005;2026-07-20;Reparador;Cansado/Con Sueño;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0241;PAC-005;2026-07-21;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Sintético
+REG-0242;PAC-005;2026-07-22;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0243;PAC-005;2026-07-23;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0244;PAC-005;2026-07-24;Reparador;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0245;PAC-005;2026-07-25;Reparador;Tranquilo/Alegre;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0246;PAC-005;2026-07-26;Reparador;Irritable/Llorando;No Aplica;Diarrea;Desregulación Frecuente;Sintético
+REG-0247;PAC-005;2026-07-27;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0248;PAC-005;2026-07-28;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0249;PAC-005;2026-07-29;Reparador;Irritable/Llorando;No Aplica;Normal;Excelente;Sintético
+REG-0250;PAC-005;2026-07-30;Dificultad de Conciliación;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0251;PAC-005;2026-07-31;Dificultad de Conciliación;Irritable/Llorando;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0252;PAC-005;2026-08-01;Reparador;Tranquilo/Alegre;No Aplica;Diarrea;Desregulación Frecuente;Sintético
+REG-0253;PAC-005;2026-08-02;Interrumpido;Cansado/Con Sueño;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0254;PAC-005;2026-08-03;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0255;PAC-005;2026-08-04;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0256;PAC-005;2026-08-05;Reparador;Tranquilo/Alegre;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0257;PAC-005;2026-08-06;Reparador;Cansado/Con Sueño;No Aplica;Normal;Excelente;Sintético
+REG-0258;PAC-005;2026-08-07;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0259;PAC-005;2026-08-08;Interrumpido;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0260;PAC-005;2026-08-09;Reparador;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0261;PAC-005;2026-08-10;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0262;PAC-005;2026-08-11;Reparador;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0263;PAC-005;2026-08-12;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0264;PAC-005;2026-08-13;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Excelente;Sintético
+REG-0265;PAC-005;2026-08-14;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0266;PAC-005;2026-08-15;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0267;PAC-005;2026-08-16;Reparador;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0268;PAC-005;2026-08-17;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Diarrea;Desregulación Frecuente;Sintético
+REG-0269;PAC-005;2026-08-18;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0270;PAC-005;2026-08-19;Reparador;Cansado/Con Sueño;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0271;PAC-005;2026-08-20;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0272;PAC-005;2026-08-21;Reparador;Tranquilo/Alegre;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0273;PAC-005;2026-08-22;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0274;PAC-005;2026-08-23;Dificultad de Conciliación;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0275;PAC-005;2026-08-24;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0276;PAC-006;2026-07-01;Reparador;Irritable/Llorando;Sí;Diarrea;Desregulación Frecuente;Sintético
+REG-0277;PAC-006;2026-07-02;Interrumpido;Tranquilo/Alegre;Sí;Estreñimiento;Estable con Apoyo;Sintético
+REG-0278;PAC-006;2026-07-03;Reparador;Irritable/Llorando;Sí;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0279;PAC-006;2026-07-04;Interrumpido;Tranquilo/Alegre;Sí;Normal;Excelente;Sintético
+REG-0280;PAC-006;2026-07-05;Interrumpido;Irritable/Llorando;Sí;Normal;Estable con Apoyo;Sintético
+REG-0281;PAC-006;2026-07-06;Reparador;Tranquilo/Alegre;Sí;Normal;Excelente;Sintético
+REG-0282;PAC-006;2026-07-07;Dificultad de Conciliación;Tranquilo/Alegre;Sí;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0283;PAC-006;2026-07-08;Reparador;Cansado/Con Sueño;Sí;Normal;Estable con Apoyo;Sintético
+REG-0284;PAC-006;2026-07-09;Interrumpido;Tranquilo/Alegre;Sí;Normal;Estable con Apoyo;Sintético
+REG-0285;PAC-006;2026-07-10;Reparador;Tranquilo/Alegre;Sí;Normal;Excelente;Sintético
+REG-0286;PAC-006;2026-07-11;Reparador;Tranquilo/Alegre;Sí;Normal;Excelente;Sintético
+REG-0287;PAC-006;2026-07-12;Reparador;Irritable/Llorando;Sí;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0288;PAC-006;2026-07-13;Reparador;Tranquilo/Alegre;Sí;Normal;Estable con Apoyo;Sintético
+REG-0289;PAC-006;2026-07-14;Reparador;Cansado/Con Sueño;Sí;Estreñimiento;Estable con Apoyo;Sintético
+REG-0290;PAC-006;2026-07-15;Interrumpido;Tranquilo/Alegre;Sí;Estreñimiento;Estable con Apoyo;Sintético
+REG-0291;PAC-006;2026-07-16;Reparador;Tranquilo/Alegre;Sí;Normal;Desregulación Frecuente;Sintético
+REG-0292;PAC-006;2026-07-17;Interrumpido;Tranquilo/Alegre;Sí;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0293;PAC-006;2026-07-18;Reparador;Irritable/Llorando;Sí;Normal;Estable con Apoyo;Sintético
+REG-0294;PAC-006;2026-07-19;Reparador;Irritable/Llorando;Sí;Normal;Estable con Apoyo;Sintético
+REG-0295;PAC-006;2026-07-20;Reparador;Tranquilo/Alegre;Sí;Normal;Estable con Apoyo;Sintético
+REG-0296;PAC-006;2026-07-21;Dificultad de Conciliación;Irritable/Llorando;Sí;Normal;Desregulación Frecuente;Sintético
+REG-0297;PAC-006;2026-07-22;Reparador;Tranquilo/Alegre;Sí;Normal;Excelente;Sintético
+REG-0298;PAC-006;2026-07-23;Reparador;Cansado/Con Sueño;Sí;Normal;Estable con Apoyo;Sintético
+REG-0299;PAC-006;2026-07-24;Interrumpido;Cansado/Con Sueño;Sí;Normal;Estable con Apoyo;Sintético
+REG-0300;PAC-006;2026-07-25;Reparador;Irritable/Llorando;Sí;Estreñimiento;Estable con Apoyo;Sintético
+REG-0301;PAC-006;2026-07-26;Reparador;Cansado/Con Sueño;Sí;Normal;Excelente;Sintético
+REG-0302;PAC-006;2026-07-27;Reparador;Tranquilo/Alegre;Sí;Normal;Estable con Apoyo;Sintético
+REG-0303;PAC-006;2026-07-28;Dificultad de Conciliación;Irritable/Llorando;Sí;Normal;Desregulación Frecuente;Sintético
+REG-0304;PAC-006;2026-07-29;Reparador;Tranquilo/Alegre;Sí;Normal;Excelente;Sintético
+REG-0305;PAC-006;2026-07-30;Reparador;Irritable/Llorando;Sí;Normal;Excelente;Sintético
+REG-0306;PAC-006;2026-07-31;Reparador;Cansado/Con Sueño;Sí;Normal;Estable con Apoyo;Sintético
+REG-0307;PAC-006;2026-08-01;Reparador;Irritable/Llorando;Sí;Normal;Excelente;Sintético
+REG-0308;PAC-006;2026-08-02;Dificultad de Conciliación;Cansado/Con Sueño;Sí;Normal;Desregulación Frecuente;Sintético
+REG-0309;PAC-006;2026-08-03;Interrumpido;Tranquilo/Alegre;Sí;Estreñimiento;Estable con Apoyo;Sintético
+REG-0310;PAC-006;2026-08-04;Reparador;Irritable/Llorando;Sí;Normal;Excelente;Sintético
+REG-0311;PAC-006;2026-08-05;Reparador;Tranquilo/Alegre;Sí;Estreñimiento;Estable con Apoyo;Sintético
+REG-0312;PAC-006;2026-08-06;Reparador;Irritable/Llorando;Sí;Normal;Excelente;Sintético
+REG-0313;PAC-006;2026-08-07;Interrumpido;Tranquilo/Alegre;Sí;Normal;Excelente;Sintético
+REG-0314;PAC-006;2026-08-08;Interrumpido;Cansado/Con Sueño;Sí;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0315;PAC-006;2026-08-09;Interrumpido;Cansado/Con Sueño;Sí;Normal;Estable con Apoyo;Sintético
+REG-0316;PAC-006;2026-08-10;Dificultad de Conciliación;Irritable/Llorando;Sí;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0317;PAC-006;2026-08-11;Dificultad de Conciliación;Tranquilo/Alegre;Sí;Normal;Estable con Apoyo;Sintético
+REG-0318;PAC-006;2026-08-12;Reparador;Tranquilo/Alegre;Sí;Estreñimiento;Excelente;Sintético
+REG-0319;PAC-006;2026-08-13;Dificultad de Conciliación;Tranquilo/Alegre;Sí;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0320;PAC-006;2026-08-14;Interrumpido;Cansado/Con Sueño;Sí;Estreñimiento;Estable con Apoyo;Sintético
+REG-0321;PAC-006;2026-08-15;Interrumpido;Tranquilo/Alegre;Sí;Diarrea;Estable con Apoyo;Sintético
+REG-0322;PAC-006;2026-08-16;Interrumpido;Tranquilo/Alegre;Sí;Normal;Excelente;Sintético
+REG-0323;PAC-006;2026-08-17;Dificultad de Conciliación;Tranquilo/Alegre;Sí;Normal;Estable con Apoyo;Sintético
+REG-0324;PAC-006;2026-08-18;Reparador;Cansado/Con Sueño;Sí;Diarrea;Estable con Apoyo;Sintético
+REG-0325;PAC-006;2026-08-19;Reparador;Irritable/Llorando;Sí;Normal;Excelente;Sintético
+REG-0326;PAC-006;2026-08-20;Interrumpido;Irritable/Llorando;Sí;Normal;Desregulación Frecuente;Sintético
+REG-0327;PAC-006;2026-08-21;Reparador;Tranquilo/Alegre;Sí;Normal;Estable con Apoyo;Sintético
+REG-0328;PAC-006;2026-08-22;Interrumpido;Irritable/Llorando;Sí;Normal;Desregulación Frecuente;Sintético
+REG-0329;PAC-006;2026-08-23;Interrumpido;Tranquilo/Alegre;Sí;Diarrea;Estable con Apoyo;Sintético
+REG-0330;PAC-006;2026-08-24;Dificultad de Conciliación;Tranquilo/Alegre;Sí;Normal;Desregulación Frecuente;Sintético
+REG-0331;PAC-007;2026-07-01;Reparador;Cansado/Con Sueño;No Aplica;Diarrea;Estable con Apoyo;Sintético
+REG-0332;PAC-007;2026-07-02;Interrumpido;Tranquilo/Alegre;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0333;PAC-007;2026-07-03;Reparador;Tranquilo/Alegre;No Aplica;Diarrea;Estable con Apoyo;Sintético
+REG-0334;PAC-007;2026-07-04;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0335;PAC-007;2026-07-05;Reparador;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0336;PAC-007;2026-07-06;Reparador;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0337;PAC-007;2026-07-07;Interrumpido;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0338;PAC-007;2026-07-08;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0339;PAC-007;2026-07-09;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0340;PAC-007;2026-07-10;Reparador;Cansado/Con Sueño;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0341;PAC-007;2026-07-11;Reparador;Irritable/Llorando;No Aplica;Estreñimiento;Excelente;Sintético
+REG-0342;PAC-007;2026-07-12;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Excelente;Sintético
+REG-0343;PAC-007;2026-07-13;Reparador;Cansado/Con Sueño;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0344;PAC-007;2026-07-14;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0345;PAC-007;2026-07-15;Reparador;Irritable/Llorando;No Aplica;Estreñimiento;Excelente;Sintético
+REG-0346;PAC-007;2026-07-16;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0347;PAC-007;2026-07-17;Interrumpido;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0348;PAC-007;2026-07-18;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0349;PAC-007;2026-07-19;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0350;PAC-007;2026-07-20;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0351;PAC-007;2026-07-21;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0352;PAC-007;2026-07-22;Reparador;Cansado/Con Sueño;No Aplica;Estreñimiento;Excelente;Sintético
+REG-0353;PAC-007;2026-07-23;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0354;PAC-007;2026-07-24;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0355;PAC-007;2026-07-25;Reparador;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0356;PAC-007;2026-07-26;Reparador;Cansado/Con Sueño;No Aplica;Estreñimiento;Estable con Apoyo;Sintético
+REG-0357;PAC-007;2026-07-27;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0358;PAC-007;2026-07-28;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0359;PAC-007;2026-07-29;Reparador;Tranquilo/Alegre;No Aplica;Diarrea;Estable con Apoyo;Sintético
+REG-0360;PAC-007;2026-07-30;Interrumpido;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0361;PAC-007;2026-07-31;Dificultad de Conciliación;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0362;PAC-007;2026-08-01;Interrumpido;Cansado/Con Sueño;No Aplica;Estreñimiento;Estable con Apoyo;Sintético
+REG-0363;PAC-007;2026-08-02;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0364;PAC-007;2026-08-03;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Sintético
+REG-0365;PAC-007;2026-08-04;Reparador;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0366;PAC-007;2026-08-05;Reparador;Cansado/Con Sueño;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0367;PAC-007;2026-08-06;Reparador;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0368;PAC-007;2026-08-07;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0369;PAC-007;2026-08-08;Reparador;Cansado/Con Sueño;No Aplica;Normal;Excelente;Sintético
+REG-0370;PAC-007;2026-08-09;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0371;PAC-007;2026-08-10;Reparador;Irritable/Llorando;No Aplica;Estreñimiento;Estable con Apoyo;Sintético
+REG-0372;PAC-007;2026-08-11;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0373;PAC-007;2026-08-12;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0374;PAC-007;2026-08-13;Interrumpido;Irritable/Llorando;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0375;PAC-007;2026-08-14;Reparador;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0376;PAC-007;2026-08-15;Reparador;Cansado/Con Sueño;No Aplica;Estreñimiento;Estable con Apoyo;Sintético
+REG-0377;PAC-007;2026-08-16;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0378;PAC-007;2026-08-17;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0379;PAC-007;2026-08-18;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0380;PAC-007;2026-08-19;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0381;PAC-007;2026-08-20;Reparador;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0382;PAC-007;2026-08-21;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Excelente;Sintético
+REG-0383;PAC-007;2026-08-22;Dificultad de Conciliación;Irritable/Llorando;No Aplica;Estreñimiento;Estable con Apoyo;Sintético
+REG-0384;PAC-007;2026-08-23;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0385;PAC-007;2026-08-24;Reparador;Cansado/Con Sueño;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0386;PAC-008;2026-07-01;Reparador;Cansado/Con Sueño;No Aplica;Normal;Excelente;Sintético
+REG-0387;PAC-008;2026-07-02;Reparador;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0388;PAC-008;2026-07-03;Reparador;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0389;PAC-008;2026-07-04;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0390;PAC-008;2026-07-05;Dificultad de Conciliación;Irritable/Llorando;No Aplica;Normal;Excelente;Sintético
+REG-0391;PAC-008;2026-07-06;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Excelente;Sintético
+REG-0392;PAC-008;2026-07-07;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0393;PAC-008;2026-07-08;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0394;PAC-008;2026-07-09;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0395;PAC-008;2026-07-10;Dificultad de Conciliación;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0396;PAC-008;2026-07-11;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0397;PAC-008;2026-07-12;Reparador;Irritable/Llorando;No Aplica;Normal;Excelente;Sintético
+REG-0398;PAC-008;2026-07-13;Reparador;Irritable/Llorando;No Aplica;Normal;Excelente;Sintético
+REG-0399;PAC-008;2026-07-14;Interrumpido;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0400;PAC-008;2026-07-15;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0401;PAC-008;2026-07-16;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0402;PAC-008;2026-07-17;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Diarrea;Desregulación Frecuente;Sintético
+REG-0403;PAC-008;2026-07-18;Reparador;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0404;PAC-008;2026-07-19;Dificultad de Conciliación;Cansado/Con Sueño;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0405;PAC-008;2026-07-20;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0406;PAC-008;2026-07-21;Interrumpido;Tranquilo/Alegre;No Aplica;Diarrea;Desregulación Frecuente;Sintético
+REG-0407;PAC-008;2026-07-22;Reparador;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0408;PAC-008;2026-07-23;Reparador;Tranquilo/Alegre;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0409;PAC-008;2026-07-24;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0410;PAC-008;2026-07-25;Interrumpido;Tranquilo/Alegre;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0411;PAC-008;2026-07-26;Reparador;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0412;PAC-008;2026-07-27;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0413;PAC-008;2026-07-28;Reparador;Irritable/Llorando;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0414;PAC-008;2026-07-29;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0415;PAC-008;2026-07-30;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0416;PAC-008;2026-07-31;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0417;PAC-008;2026-08-01;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Sintético
+REG-0418;PAC-008;2026-08-02;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0419;PAC-008;2026-08-03;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0420;PAC-008;2026-08-04;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0421;PAC-008;2026-08-05;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Excelente;Sintético
+REG-0422;PAC-008;2026-08-06;Reparador;Irritable/Llorando;No Aplica;Normal;Excelente;Sintético
+REG-0423;PAC-008;2026-08-07;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0424;PAC-008;2026-08-08;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0425;PAC-008;2026-08-09;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0426;PAC-008;2026-08-10;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0427;PAC-008;2026-08-11;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0428;PAC-008;2026-08-12;Interrumpido;Cansado/Con Sueño;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0429;PAC-008;2026-08-13;Interrumpido;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0430;PAC-008;2026-08-14;Reparador;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0431;PAC-008;2026-08-15;Reparador;Cansado/Con Sueño;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0432;PAC-008;2026-08-16;Interrumpido;Tranquilo/Alegre;No Aplica;Normal;Excelente;Sintético
+REG-0433;PAC-008;2026-08-17;Interrumpido;Irritable/Llorando;No Aplica;Estreñimiento;Desregulación Frecuente;Sintético
+REG-0434;PAC-008;2026-08-18;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0435;PAC-008;2026-08-19;Dificultad de Conciliación;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0436;PAC-008;2026-08-20;Interrumpido;Irritable/Llorando;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0437;PAC-008;2026-08-21;Reparador;Tranquilo/Alegre;No Aplica;Normal;Desregulación Frecuente;Sintético
+REG-0438;PAC-008;2026-08-22;Interrumpido;Tranquilo/Alegre;No Aplica;Estreñimiento;Estable con Apoyo;Sintético
+REG-0439;PAC-008;2026-08-23;Reparador;Tranquilo/Alegre;No Aplica;Normal;Estable con Apoyo;Sintético
+REG-0440;PAC-008;2026-08-24;Reparador;Tranquilo/Alegre;No Aplica;Estreñimiento;Excelente;Sintético

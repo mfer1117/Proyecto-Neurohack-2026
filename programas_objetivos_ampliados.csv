@@ -1,0 +1,19 @@
+﻿id_objetivo;id_caso;profesion_responsable;area_intervencion;descripcion_objetivo;estado_objetivo;origen_dato
+OBJ-001;PAC-001;Terapeuta Ocupacional;Integración Sensorial / Autorregulación;Tolerar actividades de movimiento pendular manteniendo nivel de alerta óptimo por 15 min;En Progreso;Original
+OBJ-002;PAC-001;Terapeuta Ocupacional;Actividades de la Vida Diaria (AVD);Aceptación de secuencias de vestuario independiente de prenda superior;En Progreso;Original
+OBJ-003;PAC-001;Fonoaudiólogo;Comunicación Aumentativa / Intención Comunicativa;Solicitar objetos de preferencia utilizando pictogramas o gestos comunicativos;Logrado;Original
+OBJ-004;PAC-002;Terapeuta Ocupacional;Procesamiento Sensorial Táctil;Disminución de defensa táctil ante texturas húmedas y de modelado (espuma, plasticina);En Progreso;Original
+OBJ-005;PAC-002;Fonoaudiólogo;Pragmática y Modulación Vocal;Mantener turnos de conversación estructurada con uso de audífonos atenuadores en ambientes ruidosos;En Progreso;Original
+OBJ-006;PAC-002;Psicopedagogo;Atención Sustentada;Completar tareas de discriminación visual estructuradas de 10 minutos sin conductas de huida;En Progreso;Original
+OBJ-007;PAC-003;Terapeuta Ocupacional;Praxis y Coordinación Motora;Mejorar la graduación de fuerza muscular y tono postural en juegos de arrastre y empuje;Logrado;Original
+OBJ-008;PAC-003;Terapeuta Ocupacional;Grafomotricidad;Consolidar agarre de lápiz adaptable para trazos continuos dentro de márgenes;En Progreso;Original
+OBJ-009;PAC-004;Terapeuta Ocupacional;Alimentación y Selectividad Sensorial;Tolerancia visual y olfativa de nuevos alimentos en plato dividido durante la terapia;En Progreso;Original
+OBJ-010;PAC-004;Fonoaudiólogo;Praxias Bucofonatorias y Articulación;Incrementar repertorio de fonemas iniciales a través de canciones estructuradas;En Mantención;Original
+OBJ-011;PAC-005;Terapeuta Ocupacional;Integración Sensorial / Autorregulación;Regular la búsqueda vestibular mediante pausas propioceptivas planificadas antes de transiciones.;En Progreso;Sintético
+OBJ-012;PAC-005;Psicopedagogo;Participación Escolar;Mantener participación en actividad de mesa por 12 minutos con pausa motora anticipada.;En Progreso;Sintético
+OBJ-013;PAC-006;Terapeuta Ocupacional;Procesamiento Sensorial Auditivo y Táctil;Tolerar ambientes con ruido moderado utilizando apoyos de anticipación y protección auditiva.;En Progreso;Sintético
+OBJ-014;PAC-006;Fonoaudiólogo;Pragmática / Comunicación Funcional;Solicitar pausa o retiro mediante frase funcional antes de alcanzar sobrecarga sensorial.;En Progreso;Sintético
+OBJ-015;PAC-007;Terapeuta Ocupacional;Praxis y Activación;Aumentar nivel de alerta con secuencias propioceptivas antes de tareas visuales estructuradas.;En Progreso;Sintético
+OBJ-016;PAC-007;Psicopedagogo;Atención Sustentada;Completar tareas visuales de 15 minutos con máximo dos redirecciones.;En Progreso;Sintético
+OBJ-017;PAC-008;Terapeuta Ocupacional;Alimentación y Selectividad Sensorial;Tolerar exposición gradual a olores y alimentos nuevos sin respuesta de escape intensa.;En Progreso;Sintético
+OBJ-018;PAC-008;Fonoaudiólogo;Praxias Bucofonatorias;Participar en actividades orales breves sin rechazo ante materiales neutros.;En Progreso;Sintético

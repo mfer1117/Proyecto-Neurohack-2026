@@ -1,0 +1,441 @@
+﻿id_registro_educacional;id_caso;fecha;asistencia_establecimiento;cambio_rutina;carga_demanda_academica;nivel_ruido_ambiente;transicion_dificil;observacion_breve;origen_dato
+EDU-0001;PAC-001;2026-07-01;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0002;PAC-001;2026-07-02;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0003;PAC-001;2026-07-03;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0004;PAC-001;2026-07-04;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0005;PAC-001;2026-07-05;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0006;PAC-001;2026-07-06;Asiste jornada completa;Sí;Moderada;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0007;PAC-001;2026-07-07;Asiste jornada completa;No;Moderada;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0008;PAC-001;2026-07-08;Asiste jornada completa;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0009;PAC-001;2026-07-09;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0010;PAC-001;2026-07-10;Asiste jornada completa;No;Alta;Moderado;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0011;PAC-001;2026-07-11;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0012;PAC-001;2026-07-12;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0013;PAC-001;2026-07-13;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0014;PAC-001;2026-07-14;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0015;PAC-001;2026-07-15;Asiste jornada completa;Sí;Baja;Moderado;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0016;PAC-001;2026-07-16;Ausente;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0017;PAC-001;2026-07-17;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0018;PAC-001;2026-07-18;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0019;PAC-001;2026-07-19;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0020;PAC-001;2026-07-20;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0021;PAC-001;2026-07-21;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0022;PAC-001;2026-07-22;Ausente;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0023;PAC-001;2026-07-23;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0024;PAC-001;2026-07-24;Asiste jornada completa;Sí;Alta;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0025;PAC-001;2026-07-25;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0026;PAC-001;2026-07-26;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0027;PAC-001;2026-07-27;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0028;PAC-001;2026-07-28;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0029;PAC-001;2026-07-29;Asiste jornada completa;No;Moderada;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0030;PAC-001;2026-07-30;Asiste jornada completa;No;Baja;Alto;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0031;PAC-001;2026-07-31;Asiste jornada completa;Sí;Moderada;Bajo;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0032;PAC-001;2026-08-01;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0033;PAC-001;2026-08-02;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0034;PAC-001;2026-08-03;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0035;PAC-001;2026-08-04;Asiste jornada completa;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0036;PAC-001;2026-08-05;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0037;PAC-001;2026-08-06;Asiste jornada completa;Sí;Baja;Bajo;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0038;PAC-001;2026-08-07;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0039;PAC-001;2026-08-08;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0040;PAC-001;2026-08-09;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0041;PAC-001;2026-08-10;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0042;PAC-001;2026-08-11;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0043;PAC-001;2026-08-12;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0044;PAC-001;2026-08-13;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0045;PAC-001;2026-08-14;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0046;PAC-001;2026-08-15;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0047;PAC-001;2026-08-16;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0048;PAC-001;2026-08-17;Asiste jornada completa;Sí;Moderada;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0049;PAC-001;2026-08-18;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0050;PAC-001;2026-08-19;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0051;PAC-001;2026-08-20;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0052;PAC-001;2026-08-21;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0053;PAC-001;2026-08-22;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0054;PAC-001;2026-08-23;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0055;PAC-001;2026-08-24;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0056;PAC-002;2026-07-01;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0057;PAC-002;2026-07-02;Asiste jornada completa;No;Moderada;Alto;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0058;PAC-002;2026-07-03;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0059;PAC-002;2026-07-04;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0060;PAC-002;2026-07-05;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0061;PAC-002;2026-07-06;Asiste jornada completa;No;Baja;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0062;PAC-002;2026-07-07;Asiste jornada parcial;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0063;PAC-002;2026-07-08;Asiste jornada completa;Sí;Alta;Alto;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0064;PAC-002;2026-07-09;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0065;PAC-002;2026-07-10;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0066;PAC-002;2026-07-11;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0067;PAC-002;2026-07-12;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0068;PAC-002;2026-07-13;Ausente;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0069;PAC-002;2026-07-14;Asiste jornada completa;No;Baja;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0070;PAC-002;2026-07-15;Asiste jornada completa;No;Baja;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0071;PAC-002;2026-07-16;Asiste jornada parcial;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0072;PAC-002;2026-07-17;Asiste jornada completa;No;Moderada;Alto;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0073;PAC-002;2026-07-18;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0074;PAC-002;2026-07-19;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0075;PAC-002;2026-07-20;Asiste jornada completa;Sí;Moderada;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0076;PAC-002;2026-07-21;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0077;PAC-002;2026-07-22;Asiste jornada parcial;Sí;Moderada;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0078;PAC-002;2026-07-23;Asiste jornada completa;No;Baja;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0079;PAC-002;2026-07-24;Asiste jornada completa;No;Alta;Moderado;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0080;PAC-002;2026-07-25;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0081;PAC-002;2026-07-26;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0082;PAC-002;2026-07-27;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0083;PAC-002;2026-07-28;Asiste jornada parcial;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0084;PAC-002;2026-07-29;Asiste jornada completa;No;Moderada;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0085;PAC-002;2026-07-30;Ausente;No;Alta;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0086;PAC-002;2026-07-31;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0087;PAC-002;2026-08-01;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0088;PAC-002;2026-08-02;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0089;PAC-002;2026-08-03;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0090;PAC-002;2026-08-04;Asiste jornada parcial;Sí;Moderada;Bajo;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0091;PAC-002;2026-08-05;Asiste jornada completa;No;Baja;Alto;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0092;PAC-002;2026-08-06;Asiste jornada completa;No;Moderada;Moderado;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0093;PAC-002;2026-08-07;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0094;PAC-002;2026-08-08;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0095;PAC-002;2026-08-09;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0096;PAC-002;2026-08-10;Asiste jornada completa;Sí;Moderada;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0097;PAC-002;2026-08-11;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0098;PAC-002;2026-08-12;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0099;PAC-002;2026-08-13;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0100;PAC-002;2026-08-14;Asiste jornada parcial;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0101;PAC-002;2026-08-15;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0102;PAC-002;2026-08-16;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0103;PAC-002;2026-08-17;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0104;PAC-002;2026-08-18;Asiste jornada completa;Sí;Moderada;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0105;PAC-002;2026-08-19;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0106;PAC-002;2026-08-20;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0107;PAC-002;2026-08-21;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0108;PAC-002;2026-08-22;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0109;PAC-002;2026-08-23;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0110;PAC-002;2026-08-24;Asiste jornada parcial;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0111;PAC-003;2026-07-01;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0112;PAC-003;2026-07-02;Asiste jornada completa;Sí;Moderada;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0113;PAC-003;2026-07-03;Asiste jornada completa;Sí;Alta;Bajo;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0114;PAC-003;2026-07-04;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0115;PAC-003;2026-07-05;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0116;PAC-003;2026-07-06;Asiste jornada completa;Sí;Moderada;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0117;PAC-003;2026-07-07;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0118;PAC-003;2026-07-08;Asiste jornada completa;Sí;Moderada;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0119;PAC-003;2026-07-09;Asiste jornada completa;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0120;PAC-003;2026-07-10;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0121;PAC-003;2026-07-11;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0122;PAC-003;2026-07-12;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0123;PAC-003;2026-07-13;Asiste jornada parcial;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0124;PAC-003;2026-07-14;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0125;PAC-003;2026-07-15;Asiste jornada completa;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0126;PAC-003;2026-07-16;Asiste jornada completa;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0127;PAC-003;2026-07-17;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0128;PAC-003;2026-07-18;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0129;PAC-003;2026-07-19;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0130;PAC-003;2026-07-20;Asiste jornada completa;No;Alta;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0131;PAC-003;2026-07-21;Asiste jornada completa;Sí;Moderada;Bajo;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0132;PAC-003;2026-07-22;Asiste jornada parcial;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0133;PAC-003;2026-07-23;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0134;PAC-003;2026-07-24;Asiste jornada completa;Sí;Moderada;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0135;PAC-003;2026-07-25;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0136;PAC-003;2026-07-26;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0137;PAC-003;2026-07-27;Asiste jornada completa;Sí;Alta;Alto;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0138;PAC-003;2026-07-28;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0139;PAC-003;2026-07-29;Asiste jornada completa;Sí;Moderada;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0140;PAC-003;2026-07-30;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0141;PAC-003;2026-07-31;Asiste jornada completa;No;Moderada;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0142;PAC-003;2026-08-01;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0143;PAC-003;2026-08-02;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0144;PAC-003;2026-08-03;Asiste jornada completa;Sí;Moderada;Alto;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0145;PAC-003;2026-08-04;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0146;PAC-003;2026-08-05;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0147;PAC-003;2026-08-06;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0148;PAC-003;2026-08-07;Asiste jornada completa;Sí;Moderada;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0149;PAC-003;2026-08-08;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0150;PAC-003;2026-08-09;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0151;PAC-003;2026-08-10;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0152;PAC-003;2026-08-11;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0153;PAC-003;2026-08-12;Asiste jornada completa;Sí;Moderada;Bajo;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0154;PAC-003;2026-08-13;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0155;PAC-003;2026-08-14;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0156;PAC-003;2026-08-15;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0157;PAC-003;2026-08-16;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0158;PAC-003;2026-08-17;Asiste jornada completa;Sí;Moderada;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0159;PAC-003;2026-08-18;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0160;PAC-003;2026-08-19;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0161;PAC-003;2026-08-20;Ausente;Sí;Baja;Moderado;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0162;PAC-003;2026-08-21;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0163;PAC-003;2026-08-22;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0164;PAC-003;2026-08-23;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0165;PAC-003;2026-08-24;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0166;PAC-004;2026-07-01;Asiste jornada parcial;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0167;PAC-004;2026-07-02;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0168;PAC-004;2026-07-03;Asiste jornada parcial;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0169;PAC-004;2026-07-04;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0170;PAC-004;2026-07-05;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0171;PAC-004;2026-07-06;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0172;PAC-004;2026-07-07;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0173;PAC-004;2026-07-08;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0174;PAC-004;2026-07-09;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0175;PAC-004;2026-07-10;Asiste jornada parcial;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0176;PAC-004;2026-07-11;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0177;PAC-004;2026-07-12;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0178;PAC-004;2026-07-13;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0179;PAC-004;2026-07-14;Asiste jornada completa;Sí;Moderada;Bajo;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0180;PAC-004;2026-07-15;Asiste jornada completa;No;Baja;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0181;PAC-004;2026-07-16;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0182;PAC-004;2026-07-17;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0183;PAC-004;2026-07-18;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0184;PAC-004;2026-07-19;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0185;PAC-004;2026-07-20;Asiste jornada parcial;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0186;PAC-004;2026-07-21;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0187;PAC-004;2026-07-22;Asiste jornada parcial;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0188;PAC-004;2026-07-23;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0189;PAC-004;2026-07-24;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0190;PAC-004;2026-07-25;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0191;PAC-004;2026-07-26;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0192;PAC-004;2026-07-27;Asiste jornada completa;No;Alta;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0193;PAC-004;2026-07-28;Asiste jornada completa;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0194;PAC-004;2026-07-29;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0195;PAC-004;2026-07-30;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0196;PAC-004;2026-07-31;Asiste jornada completa;Sí;Moderada;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0197;PAC-004;2026-08-01;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0198;PAC-004;2026-08-02;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0199;PAC-004;2026-08-03;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0200;PAC-004;2026-08-04;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0201;PAC-004;2026-08-05;Asiste jornada completa;No;Alta;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0202;PAC-004;2026-08-06;Asiste jornada completa;No;Alta;Alto;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0203;PAC-004;2026-08-07;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0204;PAC-004;2026-08-08;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0205;PAC-004;2026-08-09;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0206;PAC-004;2026-08-10;Asiste jornada parcial;Sí;Moderada;Bajo;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0207;PAC-004;2026-08-11;Asiste jornada completa;No;Alta;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0208;PAC-004;2026-08-12;Asiste jornada completa;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0209;PAC-004;2026-08-13;Asiste jornada completa;No;Moderada;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0210;PAC-004;2026-08-14;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0211;PAC-004;2026-08-15;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0212;PAC-004;2026-08-16;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0213;PAC-004;2026-08-17;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0214;PAC-004;2026-08-18;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0215;PAC-004;2026-08-19;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0216;PAC-004;2026-08-20;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0217;PAC-004;2026-08-21;Asiste jornada completa;No;Moderada;Alto;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0218;PAC-004;2026-08-22;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0219;PAC-004;2026-08-23;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0220;PAC-004;2026-08-24;Asiste jornada completa;No;Moderada;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0221;PAC-005;2026-07-01;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0222;PAC-005;2026-07-02;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0223;PAC-005;2026-07-03;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0224;PAC-005;2026-07-04;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0225;PAC-005;2026-07-05;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0226;PAC-005;2026-07-06;Asiste jornada completa;Sí;Alta;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0227;PAC-005;2026-07-07;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0228;PAC-005;2026-07-08;Asiste jornada parcial;No;Baja;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0229;PAC-005;2026-07-09;Asiste jornada completa;No;Moderada;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0230;PAC-005;2026-07-10;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0231;PAC-005;2026-07-11;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0232;PAC-005;2026-07-12;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0233;PAC-005;2026-07-13;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0234;PAC-005;2026-07-14;Asiste jornada completa;Sí;Moderada;Alto;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0235;PAC-005;2026-07-15;Ausente;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0236;PAC-005;2026-07-16;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0237;PAC-005;2026-07-17;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0238;PAC-005;2026-07-18;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0239;PAC-005;2026-07-19;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0240;PAC-005;2026-07-20;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0241;PAC-005;2026-07-21;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0242;PAC-005;2026-07-22;Asiste jornada completa;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0243;PAC-005;2026-07-23;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0244;PAC-005;2026-07-24;Ausente;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0245;PAC-005;2026-07-25;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0246;PAC-005;2026-07-26;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0247;PAC-005;2026-07-27;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0248;PAC-005;2026-07-28;Asiste jornada completa;No;Moderada;Moderado;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0249;PAC-005;2026-07-29;Asiste jornada completa;No;Alta;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0250;PAC-005;2026-07-30;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0251;PAC-005;2026-07-31;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0252;PAC-005;2026-08-01;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0253;PAC-005;2026-08-02;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0254;PAC-005;2026-08-03;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0255;PAC-005;2026-08-04;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0256;PAC-005;2026-08-05;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0257;PAC-005;2026-08-06;Asiste jornada completa;No;Moderada;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0258;PAC-005;2026-08-07;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0259;PAC-005;2026-08-08;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0260;PAC-005;2026-08-09;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0261;PAC-005;2026-08-10;Asiste jornada completa;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0262;PAC-005;2026-08-11;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0263;PAC-005;2026-08-12;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0264;PAC-005;2026-08-13;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0265;PAC-005;2026-08-14;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0266;PAC-005;2026-08-15;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0267;PAC-005;2026-08-16;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0268;PAC-005;2026-08-17;Asiste jornada parcial;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0269;PAC-005;2026-08-18;Asiste jornada completa;Sí;Baja;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0270;PAC-005;2026-08-19;Asiste jornada completa;Sí;Moderada;Bajo;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0271;PAC-005;2026-08-20;Asiste jornada completa;Sí;Moderada;Alto;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0272;PAC-005;2026-08-21;Asiste jornada completa;Sí;Moderada;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0273;PAC-005;2026-08-22;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0274;PAC-005;2026-08-23;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0275;PAC-005;2026-08-24;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0276;PAC-006;2026-07-01;Asiste jornada parcial;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0277;PAC-006;2026-07-02;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0278;PAC-006;2026-07-03;Asiste jornada completa;Sí;Alta;Bajo;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0279;PAC-006;2026-07-04;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0280;PAC-006;2026-07-05;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0281;PAC-006;2026-07-06;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0282;PAC-006;2026-07-07;Asiste jornada completa;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0283;PAC-006;2026-07-08;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0284;PAC-006;2026-07-09;Asiste jornada completa;Sí;Baja;Alto;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0285;PAC-006;2026-07-10;Asiste jornada completa;No;Alta;Moderado;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0286;PAC-006;2026-07-11;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0287;PAC-006;2026-07-12;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0288;PAC-006;2026-07-13;Asiste jornada completa;Sí;Moderada;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0289;PAC-006;2026-07-14;Asiste jornada completa;Sí;Baja;Alto;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0290;PAC-006;2026-07-15;Asiste jornada completa;Sí;Moderada;Alto;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0291;PAC-006;2026-07-16;Asiste jornada completa;No;Alta;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0292;PAC-006;2026-07-17;Asiste jornada completa;No;Moderada;Alto;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0293;PAC-006;2026-07-18;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0294;PAC-006;2026-07-19;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0295;PAC-006;2026-07-20;Asiste jornada parcial;Sí;Moderada;Alto;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0296;PAC-006;2026-07-21;Asiste jornada completa;Sí;Moderada;Alto;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0297;PAC-006;2026-07-22;Asiste jornada completa;No;Baja;Moderado;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0298;PAC-006;2026-07-23;Asiste jornada completa;No;Moderada;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0299;PAC-006;2026-07-24;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0300;PAC-006;2026-07-25;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0301;PAC-006;2026-07-26;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0302;PAC-006;2026-07-27;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0303;PAC-006;2026-07-28;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0304;PAC-006;2026-07-29;Asiste jornada completa;Sí;Moderada;Bajo;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0305;PAC-006;2026-07-30;Asiste jornada completa;Sí;Moderada;Alto;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0306;PAC-006;2026-07-31;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0307;PAC-006;2026-08-01;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0308;PAC-006;2026-08-02;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0309;PAC-006;2026-08-03;Asiste jornada completa;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0310;PAC-006;2026-08-04;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0311;PAC-006;2026-08-05;Asiste jornada parcial;Sí;Moderada;Alto;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0312;PAC-006;2026-08-06;Asiste jornada completa;No;Alta;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0313;PAC-006;2026-08-07;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0314;PAC-006;2026-08-08;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0315;PAC-006;2026-08-09;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0316;PAC-006;2026-08-10;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0317;PAC-006;2026-08-11;Asiste jornada parcial;No;Baja;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0318;PAC-006;2026-08-12;Asiste jornada completa;Sí;Moderada;Bajo;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0319;PAC-006;2026-08-13;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0320;PAC-006;2026-08-14;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0321;PAC-006;2026-08-15;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0322;PAC-006;2026-08-16;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0323;PAC-006;2026-08-17;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0324;PAC-006;2026-08-18;Asiste jornada completa;Sí;Moderada;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0325;PAC-006;2026-08-19;Asiste jornada completa;Sí;Baja;Alto;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0326;PAC-006;2026-08-20;Ausente;Sí;Moderada;Moderado;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0327;PAC-006;2026-08-21;Asiste jornada completa;Sí;Moderada;Bajo;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0328;PAC-006;2026-08-22;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0329;PAC-006;2026-08-23;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0330;PAC-006;2026-08-24;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0331;PAC-007;2026-07-01;Ausente;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0332;PAC-007;2026-07-02;Asiste jornada completa;No;Alta;Moderado;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0333;PAC-007;2026-07-03;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0334;PAC-007;2026-07-04;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0335;PAC-007;2026-07-05;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0336;PAC-007;2026-07-06;Asiste jornada parcial;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0337;PAC-007;2026-07-07;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0338;PAC-007;2026-07-08;Ausente;Sí;Alta;Moderado;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0339;PAC-007;2026-07-09;Asiste jornada completa;No;Alta;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0340;PAC-007;2026-07-10;Asiste jornada completa;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0341;PAC-007;2026-07-11;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0342;PAC-007;2026-07-12;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0343;PAC-007;2026-07-13;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0344;PAC-007;2026-07-14;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0345;PAC-007;2026-07-15;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0346;PAC-007;2026-07-16;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0347;PAC-007;2026-07-17;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0348;PAC-007;2026-07-18;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0349;PAC-007;2026-07-19;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0350;PAC-007;2026-07-20;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0351;PAC-007;2026-07-21;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0352;PAC-007;2026-07-22;Asiste jornada completa;Sí;Moderada;Moderado;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0353;PAC-007;2026-07-23;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0354;PAC-007;2026-07-24;Asiste jornada completa;Sí;Alta;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0355;PAC-007;2026-07-25;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0356;PAC-007;2026-07-26;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0357;PAC-007;2026-07-27;Ausente;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0358;PAC-007;2026-07-28;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0359;PAC-007;2026-07-29;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0360;PAC-007;2026-07-30;Asiste jornada parcial;No;Moderada;Alto;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0361;PAC-007;2026-07-31;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0362;PAC-007;2026-08-01;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0363;PAC-007;2026-08-02;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0364;PAC-007;2026-08-03;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0365;PAC-007;2026-08-04;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0366;PAC-007;2026-08-05;Asiste jornada completa;No;Baja;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0367;PAC-007;2026-08-06;Asiste jornada completa;Sí;Alta;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0368;PAC-007;2026-08-07;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0369;PAC-007;2026-08-08;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0370;PAC-007;2026-08-09;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0371;PAC-007;2026-08-10;Asiste jornada completa;No;Baja;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0372;PAC-007;2026-08-11;Asiste jornada parcial;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0373;PAC-007;2026-08-12;Asiste jornada parcial;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0374;PAC-007;2026-08-13;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0375;PAC-007;2026-08-14;Asiste jornada completa;No;Moderada;Bajo;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0376;PAC-007;2026-08-15;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0377;PAC-007;2026-08-16;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0378;PAC-007;2026-08-17;Asiste jornada completa;Sí;Alta;Bajo;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0379;PAC-007;2026-08-18;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0380;PAC-007;2026-08-19;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0381;PAC-007;2026-08-20;Asiste jornada parcial;Sí;Moderada;Bajo;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0382;PAC-007;2026-08-21;Asiste jornada completa;Sí;Moderada;Alto;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0383;PAC-007;2026-08-22;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0384;PAC-007;2026-08-23;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0385;PAC-007;2026-08-24;Asiste jornada completa;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0386;PAC-008;2026-07-01;Asiste jornada completa;Sí;Moderada;Alto;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0387;PAC-008;2026-07-02;Asiste jornada completa;Sí;Baja;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0388;PAC-008;2026-07-03;Asiste jornada completa;No;Baja;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0389;PAC-008;2026-07-04;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0390;PAC-008;2026-07-05;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0391;PAC-008;2026-07-06;Asiste jornada completa;No;Moderada;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0392;PAC-008;2026-07-07;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0393;PAC-008;2026-07-08;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0394;PAC-008;2026-07-09;Ausente;No;Baja;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0395;PAC-008;2026-07-10;Asiste jornada completa;No;Baja;Alto;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0396;PAC-008;2026-07-11;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0397;PAC-008;2026-07-12;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0398;PAC-008;2026-07-13;Asiste jornada completa;No;Baja;Moderado;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0399;PAC-008;2026-07-14;Asiste jornada completa;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0400;PAC-008;2026-07-15;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0401;PAC-008;2026-07-16;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0402;PAC-008;2026-07-17;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0403;PAC-008;2026-07-18;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0404;PAC-008;2026-07-19;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0405;PAC-008;2026-07-20;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0406;PAC-008;2026-07-21;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0407;PAC-008;2026-07-22;Asiste jornada completa;No;Baja;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0408;PAC-008;2026-07-23;Asiste jornada completa;No;Moderada;Moderado;Sí;Se requirió apoyo adicional en al menos una transición.;Sintético
+EDU-0409;PAC-008;2026-07-24;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0410;PAC-008;2026-07-25;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0411;PAC-008;2026-07-26;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0412;PAC-008;2026-07-27;Asiste jornada completa;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0413;PAC-008;2026-07-28;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0414;PAC-008;2026-07-29;Asiste jornada completa;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0415;PAC-008;2026-07-30;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0416;PAC-008;2026-07-31;Ausente;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0417;PAC-008;2026-08-01;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0418;PAC-008;2026-08-02;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0419;PAC-008;2026-08-03;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0420;PAC-008;2026-08-04;Asiste jornada completa;No;Baja;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0421;PAC-008;2026-08-05;Asiste jornada completa;No;Alta;Alto;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0422;PAC-008;2026-08-06;Asiste jornada parcial;Sí;Moderada;Moderado;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0423;PAC-008;2026-08-07;Asiste jornada completa;No;Baja;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0424;PAC-008;2026-08-08;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0425;PAC-008;2026-08-09;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0426;PAC-008;2026-08-10;Asiste jornada parcial;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0427;PAC-008;2026-08-11;Asiste jornada parcial;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0428;PAC-008;2026-08-12;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0429;PAC-008;2026-08-13;Ausente;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0430;PAC-008;2026-08-14;Ausente;No;Alta;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0431;PAC-008;2026-08-15;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0432;PAC-008;2026-08-16;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0433;PAC-008;2026-08-17;Asiste jornada completa;No;Moderada;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0434;PAC-008;2026-08-18;Asiste jornada parcial;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0435;PAC-008;2026-08-19;Asiste jornada completa;No;Alta;Bajo;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0436;PAC-008;2026-08-20;Asiste jornada completa;No;Moderada;Moderado;No;Jornada sin incidentes relevantes.;Sintético
+EDU-0437;PAC-008;2026-08-21;Asiste jornada completa;Sí;Moderada;Bajo;No;Cambio de rutina anticipado con apoyo visual.;Sintético
+EDU-0438;PAC-008;2026-08-22;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0439;PAC-008;2026-08-23;No aplica (fin de semana);No;Baja;Bajo;No;Sin jornada escolar.;Sintético
+EDU-0440;PAC-008;2026-08-24;Asiste jornada parcial;Sí;Moderada;Bajo;No;Cambio de rutina anticipado con apoyo visual.;Sintético
